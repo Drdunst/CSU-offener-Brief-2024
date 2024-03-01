@@ -22,3 +22,7 @@ Es sind alle Personen betroffen, die nicht selbst den Email Account mit Benutzer
 
 Um den Artikel 10 des Grundgesetzes nicht zu verletzen beantrage ich ein unverzügliches Nutzungsverbot der von der Verwaltung zur Verfügung gestellten iPads.
 
+MS: Das finde ich eigentlich kontraproduktiv, weil wir ja damals extra einen Beschluss gefasst hatten, dass wir iPads bekommen und diese für den elektronischen Zugriff auf die Sitzungsdaten nutzen dürfen. Insofern würde ich gerne den Antrag dahingehend abändern, dass wir uns die gemeindlichen eMails wie überall sonst auch selber mit unserem eigenen Passwort administrieren können.
+Dann hat die Verwaltung da auch keinen Zugriff mehr. Wobei ich mir ehrlich gesagt gar nicht sicher bin, ob die Verwaltung in der aktuellen Konfiguration überhaupt Zugriff hat...ich weiß ehrlich gesagt nicht mehr, wie wir uns die iPads damals eingerichtet hatten bzw. wer das eingerichtet hat...
+
+
